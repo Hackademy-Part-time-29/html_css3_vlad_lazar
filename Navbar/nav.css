@@ -1,0 +1,37 @@
+:root{
+    font-size: 16px;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+a, img, strong {
+    display: inline-block;
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.material-symbols-outlined{
+    border-radius: 50%;
+}
+.order-nav{
+    display: inline;
+    margin-left: 18px;
+}
+#bottone-ricerca{
+    margin-left: 48px;
+}
+main{
+    width: 60%;
+}
+aside{
+   width: 40%;
+}
+.colonne{
+    display: flex;
+
+}
+
+
